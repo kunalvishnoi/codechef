@@ -1,4 +1,4 @@
-https://www.hackerrank.com/challenges/solve-me-first
+//https://www.hackerrank.com/challenges/solve-me-first
 
 function main() {
    
